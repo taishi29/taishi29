@@ -2,7 +2,7 @@
 ### I am taishi!
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taishi29)](https://github.com/taishi29/)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taishi290&theme=github)](https://github.com/taishi29/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taishi29&theme=github)](https://github.com/taishi29/github-readme-activity-graph)
 <!--
 **taishi29/taishi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
