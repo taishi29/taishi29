@@ -6,8 +6,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taishi29&theme=gruvbox&utcOffset=9)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taishi29&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taishi29&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taishi29&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taishi29&count_private=true&show_icons=true&show_icons=true&theme=gruvbox" />
 </p>
 
 ## Trophy
