@@ -3,19 +3,15 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taishi29&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taishi29&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taishi29&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=taishi29&theme=gruvbox)
-
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taishi29&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taishi29&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=taishi29&theme=gruvbox)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taishi29&theme=github)](https://github.com/taishi29/github-readme-activity-graph)
