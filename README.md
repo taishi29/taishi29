@@ -1,18 +1,17 @@
-## 𝑯𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆 👋
-## 𝐈 𝐚𝐦 𝐭𝐚𝐢𝐬𝐡𝐢!
+## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄 𝙖𝙢 𝙩𝙖𝙞𝙨𝙝𝙞!
 
-## Github summary 
+## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙪𝙢𝙢𝙖𝙧𝙮 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taishi29&theme=gruvbox&utcOffset=9)
 
-## Git hub state
+## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙩𝙖𝙩𝙚
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taishi29&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taishi29&count_private=true&show_icons=true&show_icons=true&theme=gruvbox" />
 </p>
 
-## Trophy
+## 𝙏𝙧𝙤𝙥𝙝𝙮
 ![trophy](https://github-profile-trophy.vercel.app/?username=taishi29&theme=gruvbox)
 
 
