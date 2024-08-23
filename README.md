@@ -1,5 +1,5 @@
-## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄 𝙖𝙢 𝙩𝙖𝙞𝙨𝙝𝙞!
-
+## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚👋 𝙄 𝙖𝙢 𝙩𝙖𝙞𝙨𝙝𝙞!
+I'm a junior programmer from JAPAN！
 ## 𝙂𝙞𝙩𝙝𝙪𝙗 𝙨𝙪𝙢𝙢𝙖𝙧𝙮 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taishi29&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taishi29&theme=gruvbox)
