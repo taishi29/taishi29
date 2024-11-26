@@ -11,6 +11,8 @@ I'm a junior programmer from JAPAN！
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taishi29&count_private=true&show_icons=true&show_icons=true&theme=gruvbox" />
 </p>
 
+## 𝙎𝙠𝙞𝙡𝙡 𝙄𝙘𝙤𝙣𝙨
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,aws)](https://skillicons.dev)
 ## 𝙏𝙧𝙤𝙥𝙝𝙮
 ![trophy](https://github-profile-trophy.vercel.app/?username=taishi29&theme=gruvbox)
 
