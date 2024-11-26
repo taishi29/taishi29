@@ -12,7 +12,7 @@ I'm a junior programmer from JAPAN！
 </p>
 
 ## 𝙎𝙠𝙞𝙡𝙡 𝙄𝙘𝙤𝙣𝙨
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,js,html,css,aws)](https://skillicons.dev)
 ## 𝙏𝙧𝙤𝙥𝙝𝙮
 ![trophy](https://github-profile-trophy.vercel.app/?username=taishi29&theme=gruvbox)
 
